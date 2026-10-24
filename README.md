@@ -1,1 +1,2 @@
 # Software-Test-Automation-QA
+I can make sure my software is functional and secure by testing it, checking for vulnerabilities, and fixing issues before release. I can interpret user needs and incorporate them into a program by listening to the users and turning their needs into clear requirements. Finally, when designing software, I can break the problem into smaller, more achievable parts and plan how they'll work together. 
